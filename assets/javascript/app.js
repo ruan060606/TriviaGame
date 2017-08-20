@@ -51,7 +51,7 @@ var qA = {
 			5:{
 				question:'Nintendo is a consumer electronics and video game company founded in what country?',
 				answers:['Europe','China','United States','Japan'],
-				correct:'Compact Disk Read Only Memory',
+				correct:'Japan',
 				right: 'Correct!',
 				wrong: "Wrong! The Answer is: Japan!",
 				imageUrl:'assets/images/japan.jpg'
