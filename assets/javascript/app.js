@@ -12,7 +12,7 @@ correctElement.setAttribute("src", "assets/sound/Correct.mp3");
 var timerElement = document.createElement("audio");
 timerElement.setAttribute("src", "assets/sound/timer.mp3");
 var gameElement = document.createElement("audio");
-gameElement.setAttribute("src", "./assets/sound/Gameover.mp3");
+gameElement.setAttribute("src", "assets/sound/GameOver.mp3");
 //======================
 var timer = '';
 var qA = {
